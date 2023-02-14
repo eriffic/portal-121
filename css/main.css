@@ -82,9 +82,9 @@ footer {
     
     picture.profile img {
         margin-top: 2rem;
-        object-fit: cover;
-        width: 230px;
-        height: 230px;
+        object-fit: cover !important;
+        width: 230px !important;
+        height: 230px !important;
         /* width: 50%; */
         float: left;
         margin-right: 2em;
