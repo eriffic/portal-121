@@ -22,7 +22,7 @@ body {
 }
 
 .subheader {
-    padding-top: 1rem;
+    padding-top: 2rem;
     padding-bottom: 1rem;
 }
 
@@ -81,7 +81,11 @@ footer {
     }
     
     picture.profile img {
-        width: 50%;
+        margin-top: 2rem;
+        object-fit: cover;
+        width: 230px;
+        height: 230px;
+        /* width: 50%; */
         float: left;
         margin-right: 2em;
     }
